@@ -11,7 +11,7 @@ pip install pygame
 ```
 
 ## Game Rules
-Each of the nine boxes has to contain all the numbers 1-9 within its squares. Each number can only appear once in a row, column or box.
+Each of the nine boxes has to contain all the numbers 1-9 within its squares. Each number can only appear once in a row, column, or box.
 
 
 ## Usage
